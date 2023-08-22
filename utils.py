@@ -3,6 +3,7 @@ import matplotlib.pyplot as plt
 from matplotlib.colors import ListedColormap
 from mpl_toolkits.mplot3d import Axes3D
 
+# define a function to load the data
 def load_data():
     X = np.load("data/ex7_X.npy")
     return X
