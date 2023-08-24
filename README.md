@@ -1,5 +1,5 @@
 # Images-color-compression-using-clustering
-This project will be about manually implementing the K-means algorithm and using it for image compression. 
+This project will be about manually implementing the K-means algorithm and using it for image compression.
 * Starting with a sample dataset that will help us gain an intuition of how the K-means algorithm works. 
 * After that, we will use the K-means algorithm for image compression by reducing the number of colors that occur in an image to only those that are most common in that image.
 
